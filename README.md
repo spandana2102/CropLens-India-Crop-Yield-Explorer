@@ -6,7 +6,8 @@ CropLens is a full-stack data analysis project exploring over 50 years of rice a
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](dashboard/dashboard_cover.png)
+![Dashboard Preview](![image](https://github.com/user-attachments/assets/94fb21bd-1e5b-43e0-ac39-47167ef94ab3)
+)
 
 ---
 
@@ -39,12 +40,12 @@ CropLens is a full-stack data analysis project exploring over 50 years of rice a
 
 ## 🔗 Tableau Dashboard
 
-➡ [View the Live Dashboard on Tableau Public](#)
+➡ [View the Live Dashboard on Tableau Public](https://10ay.online.tableau.com/#/site/shashayu/workbooks/2581716?:origin=card_share_link)
 
 ---
 
 ## 📌 Author
 
 **Spandana Dodde**  
-[LinkedIn](www.linkedin.com/in/spandana-dodde) • [Email](spandanadodde1@gmail.com) • [Tableau Public](https://10ay.online.tableau.com/#/site/shashayu/workbooks/2581716?:origin=card_share_link)
+[LinkedIn](www.linkedin.com/in/spandana-dodde) • [Email](spandanadodde1@gmail.com) 
 
