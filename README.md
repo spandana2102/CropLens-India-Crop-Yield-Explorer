@@ -6,7 +6,7 @@ CropLens is a full-stack data analysis project exploring over 50 years of rice a
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](![image](https://github.com/user-attachments/assets/94fb21bd-1e5b-43e0-ac39-47167ef94ab3)
+![Dashboard Preview](<img width="800" alt="croplensdashboard" src="https://github.com/user-attachments/assets/23eb657b-2e48-441a-a518-a09482c0b040" />
 )
 
 ---
